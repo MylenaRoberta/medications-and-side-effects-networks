@@ -1,0 +1,4 @@
+.venv/
+
+data/processed/*-edges.csv
+data/processed/*-nodes.csv
