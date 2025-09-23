@@ -5,12 +5,12 @@ Dataset: https://www.kaggle.com/datasets/shudhanshusingh/250k-medicines-usage-si
 
 ### Questions to answer
 
-1. What are the side effects that happen together?
+1. Which side effects are the most important?
 
-2. Which side effects are more relevant? (In different aspects)
+2. How harmful are the most important side effects? What about the less important ones?
 
-3. Is there any similarity of the medications related to the side effects? (Similarity degree)
+3. Which side effects occur together? How harmful is each of these groups?
 
-4. How similar are medications from the same therapeutic class? And from different therapeutic classes?
+4. How similar are the side effects of medications within the same therapeutic class?
 
-5. What are the most relevant side effects related to habit forming medications? (Bipartite network)
+5. How close are the most harmful group side effects to the least harmful one?
