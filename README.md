@@ -1,16 +1,16 @@
-# medications-and-side-effects-networks
+# Medications and Side Effects
 
 Dataset: https://www.kaggle.com/datasets/shudhanshusingh/250k-medicines-usage-side-effects-and-substitutes
 
 
-### Questions to answer
+## Questions to Answer
 
-1. Which side effects are the most important?
+1. Which are the top five most and least important side effects according to degree, betweenness, and closeness centralities?
 
-2. How harmful are the most important side effects? What about the less important ones?
+2. How harmful are the most important side effects? And what about the least important ones?
 
-3. Which side effects occur together? How harmful is each of these groups?
+3. Into how many communities can the side effects be grouped?
 
-4. How similar are the side effects of medications within the same therapeutic class?
+4. What is the severity distribution within each group of side effects?
 
-5. How close are the most harmful group side effects to the least harmful one?
+5. What is the distance between the most harmful group of side effects and the least harmful one?
