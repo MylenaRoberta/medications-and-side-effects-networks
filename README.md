@@ -5,12 +5,12 @@ Dataset: https://www.kaggle.com/datasets/shudhanshusingh/250k-medicines-usage-si
 
 ## Questions to Answer
 
-1. Which are the top five most and least important side effects according to degree, betweenness, and closeness centralities?
+1. Which are the top five most important side effects according to degree and betweenness centralities?
 
-2. How harmful are the most important side effects? And what about the least important ones?
+2. How harmful are the most important side effects?
 
 3. Into how many communities can the side effects be grouped?
 
 4. What is the severity distribution within each group of side effects?
 
-5. What is the distance between the most harmful group of side effects and the least harmful one?
+5. Is it possible to relate each side-effect community to one or more human body systems?
